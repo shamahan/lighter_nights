@@ -1,0 +1,19 @@
+LighterNights
+Copyright (c) 2026 Vovkulaka. All rights reserved.
+
+The source code is published so that it can be read, and so that the addon can
+be installed and used in World of Warcraft. No permission is granted to
+redistribute, modify or reuse this code, in whole or in part, without the
+author's written consent.
+
+Third-party libraries in the Libs/ folder are not covered by this notice. They
+belong to their respective authors and remain under their own terms:
+
+  - LibStub
+  - CallbackHandler-1.0
+  - LibDataBroker-1.1
+  - LibDBIcon-1.0
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY ARISING FROM THE USE OF THE SOFTWARE.

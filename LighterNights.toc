@@ -1,0 +1,32 @@
+## Interface: 16001, 120105, 120107
+## Title: LighterNights
+## Notes: Adjusts gamma, brightness and contrast by the in-game time of day.
+## Notes-ruRU: Меняет гамму, яркость и контрастность по игровому времени суток.
+## Author: Vovkulaka
+## Version: 1.0.0
+## IconTexture: Interface\AddOns\LighterNights\Media\night.png
+## SavedVariables: LighterNightsDB
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
+Libs\LibDBIcon-1.0\LibDBIcon-1.0.lua
+
+Locales\enUS.lua
+Locales\deDE.lua
+Locales\esES.lua
+Locales\esMX.lua
+Locales\frFR.lua
+Locales\itIT.lua
+Locales\koKR.lua
+Locales\ptBR.lua
+Locales\ruRU.lua
+Locales\zhCN.lua
+Locales\zhTW.lua
+
+Schedule.lua
+Display.lua
+Core.lua
+UIShared.lua
+Options.lua
+Minimap.lua

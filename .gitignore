@@ -1,0 +1,24 @@
+# Local development material: never published
+/docs/
+/.superpowers/
+/.claude/
+/CLAUDE.md
+/CLAUDE.local.md
+
+# Release archives and store listing material
+/publish/
+/dist/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editors and OS
+.vscode/
+.idea/
+*.bak
+*.swp
+Thumbs.db
+.DS_Store
